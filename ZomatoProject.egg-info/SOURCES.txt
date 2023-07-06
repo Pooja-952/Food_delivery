@@ -1,0 +1,7 @@
+README.md
+setup.py
+ZomatoProject.egg-info/PKG-INFO
+ZomatoProject.egg-info/SOURCES.txt
+ZomatoProject.egg-info/dependency_links.txt
+ZomatoProject.egg-info/requires.txt
+ZomatoProject.egg-info/top_level.txt
